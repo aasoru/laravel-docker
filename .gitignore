@@ -21,3 +21,10 @@ Homestead.yaml
 Homestead.json
 /.vagrant
 .phpunit.result.cache
+
+# Docker Folder
+mysql/
+nginx/
+
+# Others
+.DS_store
